@@ -7,6 +7,7 @@
   <img src="https://img.shields.io/badge/iOS-16.4+-000000?style=flat-square&logo=Apple&logoColor=white">
   <img src="https://img.shields.io/badge/Xcode-26.2-147EFB?style=flat-square&logo=Xcode&logoColor=white">
 </p>
+
 <p align="left">
   <a href="여기에_앱스토어_링크_복사">
     <img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg" width="150">
