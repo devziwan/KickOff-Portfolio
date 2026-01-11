@@ -8,14 +8,10 @@
   <img src="https://img.shields.io/badge/Xcode-26.2-147EFB?style=flat-square&logo=Xcode&logoColor=white">
 </p>
 
-<p align="left">
-  <a href="여기에_앱스토어_링크_복사">
-    <img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg" width="150">
-  </a>
-</p>
+
 
 ---
-
+<img src="https://github.com/user-attachments/assets/0f002d46-49a0-4546-ab95-e5183fc0028c" width="100%">
 
 ---
 
