@@ -8,7 +8,11 @@
   <img src="https://img.shields.io/badge/Xcode-26.2-147EFB?style=flat-square&logo=Xcode&logoColor=white">
 </p>
 
-
+<p align="left">
+  <a href="https://apps.apple.com/kr/app/%ED%82%A5%EC%98%A4%ED%94%84-%EC%B6%95%EA%B5%AC-%EA%B2%BD%EA%B8%B0-%EC%9D%BC%EC%A0%95/id6756507148">
+    <img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg" width="150">
+  </a>
+</p>
 
 ---
 <img src="https://github.com/user-attachments/assets/0f002d46-49a0-4546-ab95-e5183fc0028c" width="100%">
