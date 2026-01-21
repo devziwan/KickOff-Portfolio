@@ -104,6 +104,7 @@ KickOff
 ### 구독 사용자 타겟팅 푸시 알림
 - **문제**: 모든 앱 사용자에게 푸시 메시지를 보내게 되는 문제가 발생했습니다. 알림 받고 싶은 경기를 구독한 특정 사용자에게만 푸시 메시지를 전송해야 했습니다.
 - **해결**: OneSignal의 External User ID 기능을 활용하여 Supabase User ID를 연결했습니다. 로그인 시 OneSignal.login(Supabase User ID)로 External User ID를 동기화하고, OneSignal에서 사용자 External ID 정보를 조회한 후 해당 푸시를 전송하도록 구현했습니다.
+- **결과**: 구독한 사용자에게만 정확히 알림이 전송되도록 구현하여 타겟팅 푸시 발송을 안정화하고 사용자 경험을 개선했습니다.
 
 ## 🗂 버전 업데이트 (Release Notes)
 
