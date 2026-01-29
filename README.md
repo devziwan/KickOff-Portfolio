@@ -109,5 +109,5 @@ KickOff
 ## 🗂 버전 업데이트 (Release Notes)
 - 실제 배포 기준으로 작성한 릴리즈 노트입니다.
 - 신규 기능, 개선 사항, 버그 수정에 대해 **문제 → 원인 → 해결 → 결과** 흐름으로 정리했습니다.
-👉 🔗 [Release Notes (노션)]([링크](https://super-chive-23e.notion.site/Release-Note-2f5d632aa98d8088abb8e73d5c9e98ee?source=copy_link))
+👉 🔗 [Release Notes (노션)](https://super-chive-23e.notion.site/Release-Note-2f5d632aa98d8088abb8e73d5c9e98ee?source=copy_link)
 
